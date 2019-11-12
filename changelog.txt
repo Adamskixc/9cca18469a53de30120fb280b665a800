@@ -1,0 +1,10 @@
+Neurosis Including
+
+legitbot
+ragebot
+anti-aim
+players
+visuals
+skins
+misc
+config
